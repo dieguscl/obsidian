@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/23 Oct, 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4d2d95cf1f74a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "this.md",
+                "file": "Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "this.md",
+                "file": "Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "this.md"
+                "file": "Kubernetes.md"
               }
             }
           },
@@ -159,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "this.md",
+                "file": "Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,17 +175,21 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
+      "templates:Insert template": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templates:Insert template": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4d2d95cf1f74a2e",
+  "active": "84f01c4eb52a6c0e",
   "lastOpenFiles": [
     "Daily notes/23 Oct, 2023.md",
-    "this.md",
+    "Excalidraw/devOps-Transpara.md",
+    "To do on deployment.md",
+    "Excalidraw/Drawing 2023-10-18 10.31.05.excalidraw.md",
     "Kubernetes.md",
+    "this.md",
+    "Daily notes/24 Oct, 2023.md",
     "K3s Tutorial (Transpara).md",
     "Transpara/TSystem UI.md",
     "Transpara/Migration Changes.md",
@@ -209,7 +201,6 @@
     "Personal/Portugal!/University reqs.md",
     "Resources/Templates/Meeting Summary.md",
     "Resources/Templates/Daily Notes.md",
-    "To do on deployment.md",
     "Daily notes/18 Oct, 2023.md",
     "Daily notes/29 Sep, 2023.md",
     "Coding/React/Treeview.md",
@@ -220,9 +211,6 @@
     "Excalidraw/Drawing 2023-05-25 16.41.40.excalidraw.md",
     "Excalidraw/Drawing 2023-05-12 11.46.35.excalidraw.md",
     "Daily notes/09 Aug, 2023.md",
-    "Daily notes/07 Aug, 2023.md",
-    "Daily notes/03 Aug, 2023.md",
-    "Daily notes/01 Aug, 2023.md",
     "Excalidraw/doga_construction.excalidraw",
     "Resources/Pasted image 20230418120359.png",
     "Resources/seatMap.json",

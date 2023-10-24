@@ -5,7 +5,7 @@ https://docs.k3s.io/installation/requirements
 
 ## Installation
 
-Run the following command to install Kubectl, k3s, and a couple of scripts
+Run the following command to install `kubectl`, `k3s`, and a couple of scripts
 ```bash
 curl -sfL https://get.k3s.io | sh -
 ```

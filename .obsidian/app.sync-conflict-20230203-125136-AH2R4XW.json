@@ -1,0 +1,9 @@
+{
+  "promptDelete": true,
+  "showLineNumber": false,
+  "attachmentFolderPath": "Resources",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "autoConvertHtml": true
+}

@@ -1,0 +1,1 @@
+To be able to boot multiple OS's in a single pendrive, use Ventoy. This is to avoid having to use multiple 

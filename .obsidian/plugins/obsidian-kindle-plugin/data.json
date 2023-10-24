@@ -1,0 +1,10 @@
+{
+  "amazonRegion": "global",
+  "highlightsFolder": "Personal/Book Highlights",
+  "lastSyncMode": "my-clippings",
+  "isLoggedIn": true,
+  "syncOnBoot": false,
+  "downloadBookMetadata": true,
+  "lastSyncDate": "2023-01-27T15:59:22.115Z",
+  "fileNameTemplate": "{{title}}-{{authorsLastNames}}"
+}

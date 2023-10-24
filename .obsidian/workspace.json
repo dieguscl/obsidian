@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "2f33bdc5ffdea3d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "78a2325a9db47db8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e5b14b8143a4e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84f01c4eb52a6c0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/23 Oct, 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4b07414082f81f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "922c96e216289970",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8028cda22a0769d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da70a30054d31897",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd4185878fb6115b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a284e588d7caa41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "02c029c08a8081bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8786f7b9726f010a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2862ad6767e6ee5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily notes/23 Oct, 2023.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a08c64d7d89e67e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily notes/23 Oct, 2023.md"
+              }
+            }
+          },
+          {
+            "id": "381e642c3ffbdbc8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "93cb4d3e456445e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0263321b14d362c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily notes/23 Oct, 2023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a08c64d7d89e67e0",
+  "lastOpenFiles": [
+    "Kubernetes.md",
+    "K3s Tutorial (Transpara).md",
+    "Transpara/TSystem UI.md",
+    "Transpara/Migration Changes.md",
+    "Transpara/Interesting things about tsytem.md",
+    "Transpara/install_tsystem.sh.md",
+    "Resources/Drawing 2023-05-25 16.44.29.excalidraw.md",
+    "Resources/Pasted image 20230126225411.png",
+    "Resources/Borg Architecture.pdf",
+    "Personal/Portugal!/University reqs.md",
+    "Resources/Templates/Meeting Summary.md",
+    "Resources/Templates/Daily Notes.md",
+    "Daily notes/23 Oct, 2023.md",
+    "To do on deployment.md",
+    "Daily notes/18 Oct, 2023.md",
+    "Daily notes/29 Sep, 2023.md",
+    "Coding/React/Treeview.md",
+    "Daily notes/13 Sep, 2023.md",
+    "Excalidraw/Drawing 2023-08-01 09.16.55.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-01 11.43.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-22 10.01.15.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-25 16.41.40.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-12 11.46.35.excalidraw.md",
+    "Daily notes/09 Aug, 2023.md",
+    "Daily notes/07 Aug, 2023.md",
+    "Daily notes/03 Aug, 2023.md",
+    "Daily notes/01 Aug, 2023.md",
+    "Coding/Back9/Repuestos Fu.md",
+    "Excalidraw/doga_construction.excalidraw",
+    "Resources/Pasted image 20230418120359.png",
+    "Resources/seatMap.json",
+    "Resources/New Rich Text Document.rtf",
+    "Coding/Back9/Creating Seat Picker for Avior/steps",
+    "Coding/Back9/Creating Seat Picker for Avior",
+    "Untitled 1",
+    "Coding/Back9",
+    "Excalidraw",
+    "Coding/Docker"
+  ]
+}

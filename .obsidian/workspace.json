@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/24 Oct, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6ac080283154049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/24 Oct, 2023.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/24 Oct, 2023.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/24 Oct, 2023.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,16 +193,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84f01c4eb52a6c0e",
+  "active": "a6ac080283154049",
   "lastOpenFiles": [
+    "K3s Tutorial (Transpara).md",
+    "Untitled.md",
+    "To do on deployment.md",
     "Kubernetes.md",
+    "Daily notes/24 Oct, 2023.md",
     "Daily notes/23 Oct, 2023.md",
     "Excalidraw/devOps-Transpara.md",
-    "To do on deployment.md",
     "Excalidraw/Drawing 2023-10-18 10.31.05.excalidraw.md",
     "this.md",
-    "Daily notes/24 Oct, 2023.md",
-    "K3s Tutorial (Transpara).md",
     "Transpara/TSystem UI.md",
     "Transpara/Migration Changes.md",
     "Transpara/Interesting things about tsytem.md",
@@ -210,7 +223,6 @@
     "Excalidraw/Drawing 2023-06-22 10.01.15.excalidraw.md",
     "Excalidraw/Drawing 2023-05-25 16.41.40.excalidraw.md",
     "Excalidraw/Drawing 2023-05-12 11.46.35.excalidraw.md",
-    "Daily notes/09 Aug, 2023.md",
     "Excalidraw/doga_construction.excalidraw",
     "Resources/Pasted image 20230418120359.png",
     "Resources/seatMap.json",

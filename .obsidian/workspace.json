@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Daily notes/24 Oct, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Daily notes/24 Oct, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes.md"
+                "file": "Daily notes/24 Oct, 2023.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Daily notes/24 Oct, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,11 +183,11 @@
   },
   "active": "84f01c4eb52a6c0e",
   "lastOpenFiles": [
+    "Kubernetes.md",
     "Daily notes/23 Oct, 2023.md",
     "Excalidraw/devOps-Transpara.md",
     "To do on deployment.md",
     "Excalidraw/Drawing 2023-10-18 10.31.05.excalidraw.md",
-    "Kubernetes.md",
     "this.md",
     "Daily notes/24 Oct, 2023.md",
     "K3s Tutorial (Transpara).md",

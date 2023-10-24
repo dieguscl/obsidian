@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Git Ship edge cases.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Git Ship edge cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Git Ship edge cases.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Git Ship edge cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
   "active": "a6ac080283154049",
   "lastOpenFiles": [
     "K3s Tutorial (Transpara).md",
-    "Untitled.md",
+    "Git Ship edge cases.md",
     "To do on deployment.md",
     "Kubernetes.md",
     "Daily notes/24 Oct, 2023.md",

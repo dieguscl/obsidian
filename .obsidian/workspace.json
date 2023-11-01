@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e5b14b8143a4e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d47f3b20fee1aa6",
+            "id": "8cc9593eee667eb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "K3s Tutorial (Transpara).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "415283a24381f987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K3s Tutorial (Transpara).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73dc88033960d060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/08 Nov, 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b0271009e858a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -183,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,40 +160,40 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
+      "templates:Insert template": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templates:Insert template": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b0271009e858a88",
+  "active": "b8028cda22a0769d",
   "lastOpenFiles": [
-    "Daily notes/08 Nov, 2023.md",
     "Tasks.md",
+    "Daily notes/15 Nov, 2023.md",
+    "conflict-files-obsidian-git.md",
+    "K3s Tutorial (Transpara).md",
+    "Traefik.md",
+    "Daily notes/09 Nov, 2023.md",
+    "Excalidraw/Drawing 2023-11-09 14.30.15.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-09 14.30.11.excalidraw.md",
     "Kubernetes.md",
-    "Connecting to VMs from VSCode in Windows environment.md",
+    "To do on deployment.md",
+    "Daily notes/08 Nov, 2023.md",
+    "Daily notes/07 Nov, 2023.md",
+    "Git Ship edge cases.md",
+    "Daily notes/06 Nov, 2023.md",
     "Daily notes/25 Oct, 2023.md",
+    "Connecting to VMs from VSCode in Windows environment.md",
+    "Daily notes/01 Nov, 2023.md",
     "Daily notes/31 Oct, 2023.md",
-    "Daily notes/30 May, 2023.md",
-    "Daily notes/29 Sep, 2023.md",
-    "Daily notes/29 Mar, 2023.md",
-    "Daily notes/28 Apr, 2023.md",
-    "Daily notes/27 Jun, 2023.md",
-    "Daily notes/27 Feb, 2023.md",
     "Daily notes/24 Oct, 2023.md",
-    "Daily notes/24 Mar, 2023.md",
     "Daily notes/23 Oct, 2023.md",
-    "Daily notes/23 Mar, 2023.md",
-    "Daily notes/22 Jun, 2023.md",
-    "Daily notes/21 Feb, 2023.md",
-    "Daily notes/21 Apr, 2023.md",
-    "Daily notes/20 Feb, 2023.md",
-    "Daily notes/19 May, 2023.md",
-    "Daily notes/18 Oct, 2023.md",
-    "Daily notes/18 Apr, 2023.md",
-    "Daily notes/17 Mar, 2023.md",
-    "Daily notes/17 Jul, 2023.md",
-    "Daily notes/13 Sep, 2023.md",
+    "Excalidraw/devOps-Transpara.md",
+    "Excalidraw/Drawing 2023-10-18 10.31.05.excalidraw.md",
+    "this.md",
+    "Transpara/TSystem UI.md",
+    "Transpara/Migration Changes.md",
+    "Transpara/Interesting things about tsytem.md",
     "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
     "Excalidraw/doga_construction.excalidraw",

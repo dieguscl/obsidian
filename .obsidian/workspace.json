@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Daily notes/01 Nov, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Daily notes/01 Nov, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K3s Tutorial (Transpara).md"
+                "file": "Daily notes/01 Nov, 2023.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Daily notes/01 Nov, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,9 +195,10 @@
   },
   "active": "a6ac080283154049",
   "lastOpenFiles": [
+    "K3s Tutorial (Transpara).md",
+    "Daily notes/01 Nov, 2023.md",
     "Git Ship edge cases.md",
     "Daily notes/31 Oct, 2023.md",
-    "K3s Tutorial (Transpara).md",
     "To do on deployment.md",
     "Kubernetes.md",
     "Daily notes/24 Oct, 2023.md",
@@ -222,7 +223,6 @@
     "Excalidraw/Drawing 2023-08-01 09.16.55.excalidraw.md",
     "Excalidraw/Drawing 2023-06-01 11.43.47.excalidraw.md",
     "Excalidraw/Drawing 2023-06-22 10.01.15.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-25 16.41.40.excalidraw.md",
     "Excalidraw/doga_construction.excalidraw",
     "Resources/Pasted image 20230418120359.png",
     "Resources/seatMap.json",

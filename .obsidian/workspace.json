@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/12 Apr, 2023.md",
+                "file": "Daily notes/08 Nov, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/12 Apr, 2023.md",
+                "file": "Daily notes/08 Nov, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/12 Apr, 2023.md"
+                "file": "Daily notes/08 Nov, 2023.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/12 Apr, 2023.md",
+                "file": "Daily notes/08 Nov, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,8 +205,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8028cda22a0769d",
+  "active": "73dc88033960d060",
   "lastOpenFiles": [
+    "Kubernetes.md",
+    "Daily notes/08 Nov, 2023.md",
     "Connecting to VMs from VSCode in Windows environment.md",
     "Daily notes/25 Oct, 2023.md",
     "Daily notes/31 Oct, 2023.md",
@@ -231,8 +233,6 @@
     "Daily notes/17 Jul, 2023.md",
     "Daily notes/13 Sep, 2023.md",
     "Daily notes/11 Jul, 2023.md",
-    "Daily notes/10 May, 2023.md",
-    "Daily notes/10 Apr, 2023.md",
     "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
     "Excalidraw/doga_construction.excalidraw",

@@ -1,0 +1,6 @@
+- Modificar tsystem-ui para tener las imagenes en assets. Plus: investigar como decirle a la app que acceda las imagenes dentro de /public en {BASE_PATH}/public (Diego)
+- Investigar a fondo sobre OpenEBS, MinIO, y como estas interactuan entre ellas para lograr tener volumenes multinodo que se mantengan sincronizados (Miguel y Diego)
+- Generar Helm Chart para tStore Interface (Diego)
+- Modificar tSystem para poder realizar una instalación de tstore-interface (Diego)
+- Investigar Redis Helm Charts (Miguel)
+- Invertigar Gateway API (Miguel y Diego)

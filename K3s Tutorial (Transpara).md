@@ -32,3 +32,9 @@ newgrp k3s
 sudo /usr/local/bin/k3s-uninstall.sh
 ```
 
+## Autocomplete
+
+```bash
+echo "source <(kubectl completion bash)" >> ~/.bashrc
+source ~/.bashrc
+```

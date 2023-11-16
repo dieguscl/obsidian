@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/16 Nov, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/16 Nov, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/16 Nov, 2023.md"
+                "file": "K3s Tutorial (Transpara).md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/16 Nov, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

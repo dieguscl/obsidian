@@ -38,3 +38,14 @@ sudo /usr/local/bin/k3s-uninstall.sh
 echo "source <(kubectl completion bash)" >> ~/.bashrc
 source ~/.bashrc
 ```
+
+## Transpara secret
+
+```bash
+kubectl create secret docker-registry transpara-docker-secret \
+  --docker-server=docker.io \
+  --docker-username=transparapull \
+  --docker-password=b6b12c5b-d839-433e-acf5-a3470224878d \
+  --docker-email=devops@transpara.com
+```
+

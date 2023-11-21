@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/21 Nov, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/21 Nov, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/21 Nov, 2023.md"
+                "file": "K3s Tutorial (Transpara).md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/21 Nov, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,20 +183,20 @@
   },
   "active": "fa1b8af3ac07bd2b",
   "lastOpenFiles": [
-    "K3s Tutorial (Transpara).md",
-    "Daily notes/21 Nov, 2023.md",
+    "Kubernetes.md",
     "Resize a logical volume in Linux (Ubuntu).md",
+    "Tasks.md",
+    "Daily notes/21 Nov, 2023.md",
+    "K3s Tutorial (Transpara).md",
     "Daily notes/20 Nov, 2023.md",
     "Daily notes/17 Nov, 2023.md",
     "Daily notes/16 Nov, 2023.md",
     "conflict-files-obsidian-git.md",
-    "Tasks.md",
     "Daily notes/15 Nov, 2023.md",
     "Traefik.md",
     "Daily notes/09 Nov, 2023.md",
     "Excalidraw/Drawing 2023-11-09 14.30.15.excalidraw.md",
     "Excalidraw/Drawing 2023-11-09 14.30.11.excalidraw.md",
-    "Kubernetes.md",
     "To do on deployment.md",
     "Daily notes/08 Nov, 2023.md",
     "Daily notes/07 Nov, 2023.md",

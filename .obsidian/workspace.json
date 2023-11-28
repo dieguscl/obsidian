@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Daily notes/28 Nov, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Daily notes/28 Nov, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K3s Tutorial (Transpara).md"
+                "file": "Daily notes/28 Nov, 2023.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Daily notes/28 Nov, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,8 +183,9 @@
   },
   "active": "fa1b8af3ac07bd2b",
   "lastOpenFiles": [
-    "Daily notes/27 Nov, 2023.md",
     "K3s Tutorial (Transpara).md",
+    "Daily notes/28 Nov, 2023.md",
+    "Daily notes/27 Nov, 2023.md",
     "Daily notes/24 Nov, 2023.md",
     "Resize a logical volume in Linux (Ubuntu).md",
     "Daily notes/22 Nov, 2023.md",
@@ -208,7 +209,6 @@
     "Daily notes/25 Oct, 2023.md",
     "Connecting to VMs from VSCode in Windows environment.md",
     "Daily notes/01 Nov, 2023.md",
-    "Daily notes/31 Oct, 2023.md",
     "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
     "Excalidraw/doga_construction.excalidraw",

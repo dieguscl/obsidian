@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG Commands.md",
+                "file": "Daily notes/06 Dec, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SG Commands.md",
+                "file": "Daily notes/06 Dec, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SG Commands.md"
+                "file": "Daily notes/06 Dec, 2023.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SG Commands.md",
+                "file": "Daily notes/06 Dec, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,10 +195,11 @@
   },
   "active": "572bd4ccc0c291e0",
   "lastOpenFiles": [
+    "SG Commands.md",
+    "Daily notes/06 Dec, 2023.md",
     "K3s Tutorial (Transpara).md",
     "To do on deployment.md",
     "Tasks.md",
-    "SG Commands.md",
     "Daily notes/05 Dec, 2023.md",
     "Daily notes/04 Dec, 2023.md",
     "Daily notes/30 Nov, 2023.md",
@@ -220,7 +221,6 @@
     "Excalidraw/Drawing 2023-11-09 14.30.15.excalidraw.md",
     "Excalidraw/Drawing 2023-11-09 14.30.11.excalidraw.md",
     "Daily notes/08 Nov, 2023.md",
-    "Daily notes/07 Nov, 2023.md",
     "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
     "Excalidraw/doga_construction.excalidraw",

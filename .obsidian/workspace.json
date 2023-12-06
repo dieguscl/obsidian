@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/06 Dec, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/06 Dec, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/06 Dec, 2023.md"
+                "file": "K3s Tutorial (Transpara).md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/06 Dec, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +195,18 @@
   },
   "active": "572bd4ccc0c291e0",
   "lastOpenFiles": [
-    "SG Commands.md",
+    "Git Ship edge cases.md",
+    "Connecting to VMs from VSCode in Windows environment.md",
+    "Coding/Back9/ZOHO MAIL.md",
+    "Coding/Back9/Repuestos Fu.md",
+    "Coding/Back9/Dynamo.md",
+    "Coding/Back9/Doga Construction.md",
+    "Coding/Back9/Back9 Info.md",
+    "Coding/Back9/Creating Seat Picker for Avior/chatGPT answer about Kiu Seat availability.md",
+    "Coding/Back9/Creating Seat Picker for Avior/Creating Seat Picker for Avior.md",
+    "Coding/Back9/Creating Seat Picker for Avior/steps/Display a Single Seat.md",
     "Daily notes/06 Dec, 2023.md",
+    "SG Commands.md",
     "K3s Tutorial (Transpara).md",
     "To do on deployment.md",
     "Tasks.md",
@@ -211,16 +221,6 @@
     "Daily notes/22 Nov, 2023.md",
     "Kubernetes.md",
     "Daily notes/21 Nov, 2023.md",
-    "Daily notes/20 Nov, 2023.md",
-    "Daily notes/17 Nov, 2023.md",
-    "Daily notes/16 Nov, 2023.md",
-    "conflict-files-obsidian-git.md",
-    "Daily notes/15 Nov, 2023.md",
-    "Traefik.md",
-    "Daily notes/09 Nov, 2023.md",
-    "Excalidraw/Drawing 2023-11-09 14.30.15.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-09 14.30.11.excalidraw.md",
-    "Daily notes/08 Nov, 2023.md",
     "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
     "Excalidraw/doga_construction.excalidraw",

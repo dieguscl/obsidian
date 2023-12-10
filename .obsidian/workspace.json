@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/09 Dec, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/09 Dec, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/09 Dec, 2023.md"
+                "file": "K3s Tutorial (Transpara).md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/09 Dec, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +195,8 @@
   },
   "active": "572bd4ccc0c291e0",
   "lastOpenFiles": [
-    "K3s Tutorial (Transpara).md",
     "Daily notes/09 Dec, 2023.md",
+    "K3s Tutorial (Transpara).md",
     "Resize a logical volume in Linux (Ubuntu).md",
     "SG Commands.md",
     "To do on deployment.md",

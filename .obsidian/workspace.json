@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG Commands.md",
+                "file": "K3s Tutorial (Transpara).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a413b04f958d4311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ODBC extractor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SG Commands.md",
+                "file": "ODBC extractor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SG Commands.md"
+                "file": "ODBC extractor.md"
               }
             }
           },
@@ -159,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SG Commands.md",
+                "file": "ODBC extractor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,13 +205,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "572bd4ccc0c291e0",
+  "active": "a413b04f958d4311",
   "lastOpenFiles": [
     "K3s Tutorial (Transpara).md",
+    "ODBC extractor.md",
+    "SG Commands.md",
     "Daily notes/11 Dec, 2023.md",
     "Daily notes/09 Dec, 2023.md",
     "Resize a logical volume in Linux (Ubuntu).md",
-    "SG Commands.md",
     "To do on deployment.md",
     "Daily notes/07 Dec, 2023.md",
     "Git Ship edge cases.md",
@@ -220,7 +233,6 @@
     "Daily notes/29 Nov, 2023.md",
     "Daily notes/28 Nov, 2023.md",
     "Daily notes/27 Nov, 2023.md",
-    "Daily notes/24 Nov, 2023.md",
     "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
     "Excalidraw/doga_construction.excalidraw",

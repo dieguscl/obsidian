@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Daily notes/19 Dec, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Daily notes/19 Dec, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K3s Tutorial (Transpara).md"
+                "file": "Daily notes/19 Dec, 2023.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Daily notes/19 Dec, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,10 +207,11 @@
   },
   "active": "a413b04f958d4311",
   "lastOpenFiles": [
+    "SG Commands.md",
+    "Daily notes/19 Dec, 2023.md",
+    "K3s Tutorial (Transpara).md",
     "Resize a logical volume in Linux (Ubuntu).md",
     "Daily notes/18 Dec, 2023.md",
-    "SG Commands.md",
-    "K3s Tutorial (Transpara).md",
     "Kubernetes.md",
     "ODBC extractor.md",
     "Daily notes/14 Dec, 2023.md",
@@ -232,7 +233,6 @@
     "Tasks.md",
     "Daily notes/05 Dec, 2023.md",
     "Daily notes/04 Dec, 2023.md",
-    "Daily notes/30 Nov, 2023.md",
     "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
     "Excalidraw/doga_construction.excalidraw",

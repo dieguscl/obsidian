@@ -1,4 +1,5 @@
 - Quantile / Percentile
 - Quartile
+- Interquartile Range (IQR)
 - Outliers
 - IQR

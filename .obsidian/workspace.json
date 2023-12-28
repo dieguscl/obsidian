@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/28 Dec, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/28 Dec, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/28 Dec, 2023.md"
+                "file": "K3s Tutorial (Transpara).md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/28 Dec, 2023.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,15 +219,15 @@
   },
   "active": "7f36afb94e09fb1f",
   "lastOpenFiles": [
-    "DS Glossary.md",
-    "Daily notes/28 Dec, 2023.md",
-    "K3s Tutorial (Transpara).md",
-    "Daily notes/19 Dec, 2023.md",
     "SG Commands.md",
     "Resize a logical volume in Linux (Ubuntu).md",
+    "ODBC extractor.md",
+    "Daily notes/28 Dec, 2023.md",
+    "DS Glossary.md",
+    "K3s Tutorial (Transpara).md",
+    "Daily notes/19 Dec, 2023.md",
     "Daily notes/18 Dec, 2023.md",
     "Kubernetes.md",
-    "ODBC extractor.md",
     "Daily notes/14 Dec, 2023.md",
     "Daily notes/11 Dec, 2023.md",
     "Daily notes/09 Dec, 2023.md",

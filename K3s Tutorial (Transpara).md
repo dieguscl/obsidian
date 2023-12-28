@@ -28,7 +28,7 @@ newgrp k3s
 ## Uninstall
 
 ```bash
-	/usr/local/bin/k3s-killall.sh
+/usr/local/bin/k3s-killall.sh
 sudo /usr/local/bin/k3s-uninstall.sh
 ```
 

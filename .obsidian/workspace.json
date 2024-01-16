@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/16 Jan, 2024.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/16 Jan, 2024.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/16 Jan, 2024.md"
+                "file": "K3s Tutorial (Transpara).md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/16 Jan, 2024.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,20 +231,20 @@
   },
   "active": "53a2280389a57179",
   "lastOpenFiles": [
-    "Daily notes/16 Jan, 2024.md",
-    "SG Commands.md",
+    "Kubernetes.md",
+    "To do on deployment.md",
     "Resize a logical volume in Linux (Ubuntu).md",
+    "SG Commands.md",
+    "Daily notes/16 Jan, 2024.md",
     "ODBC extractor.md",
     "Daily notes/28 Dec, 2023.md",
     "DS Glossary.md",
     "K3s Tutorial (Transpara).md",
     "Daily notes/19 Dec, 2023.md",
     "Daily notes/18 Dec, 2023.md",
-    "Kubernetes.md",
     "Daily notes/14 Dec, 2023.md",
     "Daily notes/11 Dec, 2023.md",
     "Daily notes/09 Dec, 2023.md",
-    "To do on deployment.md",
     "Daily notes/07 Dec, 2023.md",
     "Git Ship edge cases.md",
     "Connecting to VMs from VSCode in Windows environment.md",

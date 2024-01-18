@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Daily notes/18 Jan, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Daily notes/18 Jan, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K3s Tutorial (Transpara).md"
+                "file": "Daily notes/18 Jan, 2024.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Daily notes/18 Jan, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +231,8 @@
   },
   "active": "53a2280389a57179",
   "lastOpenFiles": [
+    "K3s Tutorial (Transpara).md",
+    "Daily notes/18 Jan, 2024.md",
     "Kubernetes.md",
     "To do on deployment.md",
     "Resize a logical volume in Linux (Ubuntu).md",
@@ -239,7 +241,6 @@
     "ODBC extractor.md",
     "Daily notes/28 Dec, 2023.md",
     "DS Glossary.md",
-    "K3s Tutorial (Transpara).md",
     "Daily notes/19 Dec, 2023.md",
     "Daily notes/18 Dec, 2023.md",
     "Daily notes/14 Dec, 2023.md",
@@ -256,7 +257,6 @@
     "Coding/Back9/Creating Seat Picker for Avior/chatGPT answer about Kiu Seat availability.md",
     "Coding/Back9/Creating Seat Picker for Avior/Creating Seat Picker for Avior.md",
     "Coding/Back9/Creating Seat Picker for Avior/steps/Display a Single Seat.md",
-    "Daily notes/06 Dec, 2023.md",
     "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
     "Excalidraw/doga_construction.excalidraw",

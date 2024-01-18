@@ -7,3 +7,4 @@ echo "user: postgres"
 echo "password: $PASSWORD"
 ```
 
+		

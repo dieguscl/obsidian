@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG Commands.md",
+                "file": "Daily notes/29 Jan, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SG Commands.md",
+                "file": "Daily notes/29 Jan, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SG Commands.md"
+                "file": "Daily notes/29 Jan, 2024.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SG Commands.md",
+                "file": "Daily notes/29 Jan, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,12 +219,13 @@
   },
   "active": "7f36afb94e09fb1f",
   "lastOpenFiles": [
+    "SG Commands.md",
+    "Daily notes/29 Jan, 2024.md",
     "K3s Tutorial (Transpara).md",
     "Daily notes/18 Jan, 2024.md",
     "Kubernetes.md",
     "To do on deployment.md",
     "Resize a logical volume in Linux (Ubuntu).md",
-    "SG Commands.md",
     "Daily notes/16 Jan, 2024.md",
     "ODBC extractor.md",
     "Daily notes/28 Dec, 2023.md",
@@ -244,7 +245,6 @@
     "Coding/Back9/Back9 Info.md",
     "Coding/Back9/Creating Seat Picker for Avior/chatGPT answer about Kiu Seat availability.md",
     "Coding/Back9/Creating Seat Picker for Avior/Creating Seat Picker for Avior.md",
-    "Coding/Back9/Creating Seat Picker for Avior/steps/Display a Single Seat.md",
     "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
     "Excalidraw/doga_construction.excalidraw",

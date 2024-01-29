@@ -1,0 +1,4 @@
+- Pass db session on every request?
+- Attributes in caps?
+- Model and schema passed on init or imported on class?
+- 

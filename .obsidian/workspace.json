@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/30 Jan, 2024.md",
+                "file": "DS Glossary.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/30 Jan, 2024.md",
+                "file": "DS Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/30 Jan, 2024.md"
+                "file": "DS Glossary.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/30 Jan, 2024.md",
+                "file": "DS Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,9 +223,9 @@
   },
   "active": "1cdf6783a55ab5a4",
   "lastOpenFiles": [
-    "Kubernetes.md",
+    "Transpara/tSystem questions.md",
     "Daily notes/30 Jan, 2024.md",
-    "tSystem questions.md",
+    "Kubernetes.md",
     "SG Commands.md",
     "Daily notes/29 Jan, 2024.md",
     "K3s Tutorial (Transpara).md",

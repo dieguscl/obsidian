@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transpara/Powershell-PI/Process flow.md",
+                "file": "Transpara/Powershell-PI/Powershell PI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e0d48988e741185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transpara/Powershell-PI/Powershell PI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transpara/Powershell-PI/Process flow.md",
+                "file": "Transpara/Powershell-PI/Powershell PI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transpara/Powershell-PI/Process flow.md"
+                "file": "Transpara/Powershell-PI/Powershell PI.md"
               }
             }
           },
@@ -223,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transpara/Powershell-PI/Process flow.md",
+                "file": "Transpara/Powershell-PI/Powershell PI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -257,12 +269,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9990c17beec2439e",
+  "active": "2e0d48988e741185",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Transpara/Powershell-PI/Process flow.md",
-    "Transpara/Powershell-PI/Powershell PI.md",
     "Transpara/Powershell-PI/CSV Contents.md",
+    "Transpara/Powershell-PI/Process flow (specific).md",
+    "Transpara/Powershell-PI/Powershell PI.md",
+    "Transpara/Powershell-PI/Process flow.md",
+    "[Corning.md",
+    "Untitled.md",
     "Resize a logical volume in Linux (Ubuntu).md",
     "SG Commands.md",
     "Connecting to VMs from VSCode in Windows environment.md",
@@ -286,8 +300,6 @@
     "K3s Tutorial (Transpara).md",
     "Daily notes/18 Jan, 2024.md",
     "To do on deployment.md",
-    "Daily notes/16 Jan, 2024.md",
-    "ODBC extractor.md",
     "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
     "Resources/Pasted image 20230418120359.png",

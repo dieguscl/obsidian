@@ -1,13 +1,6 @@
-A CSV Is going to be used to describe all the PI servers that are going to be extracted from
-- [[CSV Contents]]
-This is a general look of the process that the powershell script is going to be doing
-- [[Process flow]]
-Now a more specific way to look at it, to start developing the script 
-- [[Process flow (specific)]]
-
 I got the following to work, I just put in a CSV the configs that I had previously put in, with my single local PI data source:
 ```csv
-pi_server,af_server_name,af_database_name,log_only,tstore_endpoint,tstore_username,tstore_password,metric_name,backfill_start,backfill_end
+pi_server,af_server_name,af_database_name,log_only,tstore_endpoint,tstore_username,tstore_password,metric_name
 "WIN-HD6ET0BPF08","WIN-HD6ET0BPF08","Test",0,"http://172.30.145.98:10001","tstoredev@transpara.com","tStoreDev!22","Fish","2024-01-01","2024-02-01"
 ```
 
@@ -51,6 +44,7 @@ foreach ($dataSource in $dataSources) {
             "tstore_endpoint" { $node.SetAttribute('value', $dataSource.tstore_endpoint) }
             "tstore_username" { $node.SetAttribute('value', $dataSource.tstore_username) }
             "tstore_password" { $node.SetAttribute('value', $dataSource.tstore_password) }
+            "metric_name" { $node.SetAttribute('value', $dataSource.metric_name) }
         }
     }
     
@@ -59,9 +53,13 @@ foreach ($dataSource in $dataSources) {
     
     # Start the extractor service by running the executable
     Start-Process -FilePath $executableFilePath
+    # To install a service
+    # Start-Process -FilePath $executableFilePath -ArgumentList "/install"
     
     # Output a confirmation message
     Write-Host "Configuration for '$extractorName' has been updated and the service started."
 }
 
 ```
+
+[ChatGPT Conversation](https://chat.openai.com/g/g-exFXNI56M-transpara-code-helper/c/dbbe34a8-22ba-4b02-9661-07aa0fb8306b)

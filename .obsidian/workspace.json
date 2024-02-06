@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transpara/Powershell-PI/Powershell PI.md",
+                "file": "Transpara/Powershell-PI/01 Powershell PI.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transpara/Powershell-PI/Powershell PI.md",
+                "file": "Transpara/Powershell-PI/01 Powershell PI.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transpara/Powershell-PI/Powershell PI.md",
+                "file": "Transpara/Powershell-PI/first-prototype.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transpara/Powershell-PI/Powershell PI.md",
+                "file": "Transpara/Powershell-PI/first-prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transpara/Powershell-PI/Powershell PI.md"
+                "file": "Transpara/Powershell-PI/first-prototype.md"
               }
             }
           },
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transpara/Powershell-PI/Powershell PI.md",
+                "file": "Transpara/Powershell-PI/first-prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,10 +270,12 @@
   },
   "active": "2e0d48988e741185",
   "lastOpenFiles": [
-    "Transpara/Powershell-PI/CSV Contents.md",
-    "Transpara/Powershell-PI/Process flow (specific).md",
-    "Transpara/Powershell-PI/Powershell PI.md",
-    "Transpara/Powershell-PI/Process flow.md",
+    "Transpara/Powershell-PI/second-prototype.md",
+    "Transpara/Powershell-PI/02 CSV Contents.md",
+    "Transpara/Powershell-PI/04 Process flow (specific).md",
+    "Transpara/Powershell-PI/01 Powershell PI.md",
+    "Transpara/Powershell-PI/03 Process flow.md",
+    "Transpara/Powershell-PI/first-prototype.md",
     "[Corning.md",
     "Untitled.md",
     "Resize a logical volume in Linux (Ubuntu).md",
@@ -298,8 +299,6 @@
     "Kubernetes.md",
     "Daily notes/29 Jan, 2024.md",
     "K3s Tutorial (Transpara).md",
-    "Daily notes/18 Jan, 2024.md",
-    "To do on deployment.md",
     "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
     "Resources/Pasted image 20230418120359.png",

@@ -1,6 +1,6 @@
 - Download [.zip file](https://drive.google.com/drive/folders/1xhzI7CLvjt0WEYpWBFp4ZKYL193s3rt7) with all the contents needed for extractor (for the first version, download beforehand and pass its location as an argument)
 - Unzip it and put it here `C:\Program Files\Transpara\extractors\Aveva-PIRDA` 
-- Edit `extractor-pirda.exe` config file to point to the right tStore, and have the adequate metric name. The fields that are going to be edited are the following:
+- Edit `extractor-pirda.exe` config file to point to the right tStore, and have the adequate metric name. The fields that can be edited are the following:
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>

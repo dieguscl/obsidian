@@ -1,12 +1,12 @@
 ## Prerequisites
-- A PI interface already configured
-- Ability to open a Powershell session with administrator privileges
-- 
-
+Before proceeding, ensure you meet the following requirements:
+- **Configured PI Interface**: Your environment should already have a PI interface set up and operational.
+- **Administrative Access**: You need the capability to open a PowerShell session with administrator privileges.
+- **Execution Policy**: Your PowerShell execution policy must be configured to allow script execution, ensuring you can run scripts as needed.
+## Installation process
 1. Download the `.zip` file and extract it anywhere
 2. Go to the `AutomationScripts` folder and edit the `data_sources.csv` file according to the data sources that are desired to be extracted from. Here are the most used columns to modify the settings of the data extractor
 ### Data Extractor Configuration
-
 Configure your data extractor by editing the `data_sources.csv` file with these settings:
 
 | Setting | Description |
@@ -41,4 +41,7 @@ You should add a new column to your `data_sources.csv` file, naming it `af_usern
 
 ## Uninstall Process
 
-The uninstall process is straightforward. Make sure to close any programs that could be using the files under the `C:\Program Files\Transpara\extractors`. Then run the `pi_bulk_uninstall.ps1` file under the `AutomationScripts` folder that was used for installing in the first place. After making sure that the `data_sources.csv` file was the same one used for the installation process, run the
+1. Make sure to close any programs that could be using the files under the `C:\Program Files\Transpara\extractors` 
+2. Ensure that the `data_sources.csv` file was the same one used for the installation process, run the
+3. Then run the `pi_bulk_uninstall.ps1` file under the `AutomationScripts` folder that was used for installing in the first place.
+

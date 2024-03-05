@@ -133,14 +133,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transpara/Powershell-PI/Use docs.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "21ece83174eee45b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transpara/Powershell-PI/Use docs.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transpara/Powershell-PI/Use docs.md"
+                "file": "K3s Tutorial (Transpara).md"
               }
             }
           },
@@ -247,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transpara/Powershell-PI/Use docs.md",
+                "file": "K3s Tutorial (Transpara).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,11 +290,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7158b230bd90ec3",
+  "active": "21ece83174eee45b",
   "lastOpenFiles": [
+    "Transpara/Powershell-PI/Use docs.md",
     "Transpara/Powershell-PI/02 CSV Contents.md",
     "Transpara/Powershell-PI/03 Process flow.md",
-    "Transpara/Powershell-PI/Use docs.md",
     "Transpara/Powershell-PI/04 Process flow (specific).md",
     "Transpara/Powershell-PI/first-prototype.md",
     "Transpara/Powershell-PI/01 Powershell PI.md",

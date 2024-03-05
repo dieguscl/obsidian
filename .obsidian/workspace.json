@@ -143,9 +143,11 @@
             "id": "21ece83174eee45b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "K3s Tutorial (Transpara).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -292,6 +294,8 @@
   },
   "active": "21ece83174eee45b",
   "lastOpenFiles": [
+    "Transpara/Migration Changes.md",
+    "Transpara/tSystem questions.md",
     "Transpara/Powershell-PI/Use docs.md",
     "Transpara/Powershell-PI/02 CSV Contents.md",
     "Transpara/Powershell-PI/03 Process flow.md",
@@ -311,7 +315,6 @@
     "Transpara/User inputs for tCore.md",
     "Transpara/tSytem Deploy.md",
     "Transpara/TSystem UI.md",
-    "Transpara/tSystem questions.md",
     "Transpara/install_tsystem.sh.md",
     "Transpara/Interesting things about tsytem.md",
     "Transpara/Detailed migration Description.md",
@@ -320,7 +323,6 @@
     "Daily notes/30 Jan, 2024.md",
     "Kubernetes.md",
     "Daily notes/29 Jan, 2024.md",
-    "K3s Tutorial (Transpara).md",
     "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
     "Resources/Pasted image 20230418120359.png",

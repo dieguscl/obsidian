@@ -49,3 +49,6 @@ kubectl create secret docker-registry transpara-docker-secret \
   --docker-email=devops@transpara.com
 ```
 
+## Create local registry for testing
+
+[How to use Local docker image in kubernetes via kubectl - Stack Overflow](https://stackoverflow.com/questions/57167104/how-to-use-local-docker-image-in-kubernetes-via-kubectl)

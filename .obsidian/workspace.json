@@ -8,151 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8cc9593eee667eb6",
+            "id": "4dad7104584bbd76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa1b8af3ac07bd2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K3s Tutorial (Transpara).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "572bd4ccc0c291e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K3s Tutorial (Transpara).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a413b04f958d4311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K3s Tutorial (Transpara).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f36afb94e09fb1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SG Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cdf6783a55ab5a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transpara/User inputs for tCore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d979fd2f0cdd647c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tStore Interface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d178ceb4d8d4aab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transpara/Powershell-PI/01 Powershell PI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9990c17beec2439e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transpara/Powershell-PI/01 Powershell PI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e0d48988e741185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transpara/Powershell-PI/04 Process flow (specific).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7158b230bd90ec3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K3s Tutorial (Transpara).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21ece83174eee45b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Extractor PIRDA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Extractor PIRDA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K3s Tutorial (Transpara).md"
+                "file": "Extractor PIRDA.md"
               }
             }
           },
@@ -259,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K3s Tutorial (Transpara).md",
+                "file": "Extractor PIRDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,11 +138,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,15 +160,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21ece83174eee45b",
+  "active": "4dad7104584bbd76",
   "lastOpenFiles": [
+    "Transpara/Powershell-PI/Use docs.md",
+    "Transpara/Powershell-PI/first-prototype.md",
+    "Extractor PIRDA.md",
+    "K3s Tutorial (Transpara).md",
     "Transpara/Migration Changes.md",
     "Transpara/tSystem questions.md",
-    "Transpara/Powershell-PI/Use docs.md",
     "Transpara/Powershell-PI/02 CSV Contents.md",
     "Transpara/Powershell-PI/03 Process flow.md",
     "Transpara/Powershell-PI/04 Process flow (specific).md",
-    "Transpara/Powershell-PI/first-prototype.md",
     "Transpara/Powershell-PI/01 Powershell PI.md",
     "Transpara/Powershell-PI/second-prototype.md",
     "[Corning.md",
@@ -321,8 +191,6 @@
     "DS Glossary.md",
     "Daily notes/01 Feb, 2024.md",
     "Daily notes/30 Jan, 2024.md",
-    "Kubernetes.md",
-    "Daily notes/29 Jan, 2024.md",
     "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
     "Resources/Pasted image 20230418120359.png",

@@ -28,9 +28,19 @@
                 "currentVersion": "1.6.3"
               }
             }
+          },
+          {
+            "id": "33741fd8352af4f6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c0bb2a7205f35b4",
+  "active": "33741fd8352af4f6",
   "lastOpenFiles": [
     "Transpara/Powershell-PI/Use docs.md",
     "Transpara/Powershell-PI/first-prototype.md",

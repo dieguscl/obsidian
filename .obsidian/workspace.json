@@ -43,9 +43,9 @@
             "id": "23b76047bcccfb88",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Excalidraw/devOps-Transpara.md"
               }
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extractor PIRDA.md",
+                "file": "Excalidraw/devOps-Transpara.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extractor PIRDA.md"
+                "file": "Excalidraw/devOps-Transpara.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extractor PIRDA.md",
+                "file": "Excalidraw/devOps-Transpara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +193,15 @@
   },
   "active": "23b76047bcccfb88",
   "lastOpenFiles": [
+    "Excalidraw/doga_construction.excalidraw",
+    "Resources/Pasted image 20230418120359.png",
+    "Resources/Pasted image 20230126225411.png",
+    "Excalidraw/devOps-Transpara.md",
+    "Excalidraw/Drawing 2023-05-12 11.46.35.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-01 09.16.55.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-22 10.01.15.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-01 11.43.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-25 16.41.40.excalidraw.md",
     "Transpara/Powershell-PI/Use docs.md",
     "Transpara/Powershell-PI/first-prototype.md",
     "Extractor PIRDA.md",
@@ -209,22 +218,12 @@
     "SG Commands.md",
     "Connecting to VMs from VSCode in Windows environment.md",
     "Transpara/Powershell-PI",
-    "Excalidraw/doga_construction.excalidraw",
     "Untitled",
     "tStore Interface.md",
     "Daily notes/05 Feb, 2024.md",
     "Transpara/User inputs for tCore.md",
     "Transpara/tSytem Deploy.md",
-    "Transpara/TSystem UI.md",
-    "Transpara/install_tsystem.sh.md",
-    "Transpara/Interesting things about tsytem.md",
-    "Transpara/Detailed migration Description.md",
-    "DS Glossary.md",
-    "Daily notes/01 Feb, 2024.md",
-    "Daily notes/30 Jan, 2024.md",
-    "Resources/Pasted image 20230126225411.png",
     "Resources/Borg Architecture.pdf",
-    "Resources/Pasted image 20230418120359.png",
     "Resources/seatMap.json",
     "Resources/New Rich Text Document.rtf",
     "Coding/Back9/Creating Seat Picker for Avior/steps",

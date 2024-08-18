@@ -1069,8 +1069,8 @@ febb3485d024e32c2a57512697e39ecd2ff6b8cb: https://martinfowler.com/articles/ship
 		},
 		{
 			"type": "arrow",
-			"version": 341,
-			"versionNonce": 964336018,
+			"version": 349,
+			"versionNonce": 1668948276,
 			"isDeleted": false,
 			"id": "AQDlRSY1v7FzFtQ5WUMck",
 			"fillStyle": "hachure",
@@ -1079,11 +1079,11 @@ febb3485d024e32c2a57512697e39ecd2ff6b8cb: https://martinfowler.com/articles/ship
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -465.9693983858024,
+			"x": -465.96939844548024,
 			"y": -601.2734375,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 145.69802280361637,
+			"width": 145.6980227575832,
 			"height": 89.66836999999998,
 			"seed": 914667993,
 			"groupIds": [],
@@ -1091,7 +1091,7 @@ febb3485d024e32c2a57512697e39ecd2ff6b8cb: https://martinfowler.com/articles/ship
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698147562828,
+			"updated": 1723999934685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1113,15 +1113,15 @@ febb3485d024e32c2a57512697e39ecd2ff6b8cb: https://martinfowler.com/articles/ship
 					0
 				],
 				[
-					-145.69802280361637,
+					-145.6980227575832,
 					89.66836999999998
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 417,
-			"versionNonce": 1976932178,
+			"version": 425,
+			"versionNonce": 1200085684,
 			"isDeleted": false,
 			"id": "Zh1V3QsQ4NmZ5I0mWPpaQ",
 			"fillStyle": "hachure",
@@ -1130,19 +1130,19 @@ febb3485d024e32c2a57512697e39ecd2ff6b8cb: https://martinfowler.com/articles/ship
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -450.2148117755414,
+			"x": -450.2148426216713,
 			"y": -601.2734375,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 105.19532246753306,
-			"height": 90.1438619999999,
+			"width": 105.1953441325038,
+			"height": 90.14386199999984,
 			"seed": 1373368087,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698147562829,
+			"updated": 1723999934685,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1164,15 +1164,15 @@ febb3485d024e32c2a57512697e39ecd2ff6b8cb: https://martinfowler.com/articles/ship
 					0
 				],
 				[
-					105.19532246753306,
-					90.1438619999999
+					105.1953441325038,
+					90.14386199999984
 				]
 			]
 		},
 		{
 			"type": "image",
-			"version": 392,
-			"versionNonce": 1122182916,
+			"version": 583,
+			"versionNonce": 375190580,
 			"isDeleted": false,
 			"id": "oxyraq4M",
 			"fillStyle": "hachure",
@@ -1181,8 +1181,8 @@ febb3485d024e32c2a57512697e39ecd2ff6b8cb: https://martinfowler.com/articles/ship
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -888.637437881434,
-			"y": 117.10095973943007,
+			"x": -799.2256731755517,
+			"y": 191.21860679825352,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 1140,
@@ -1191,7 +1191,7 @@ febb3485d024e32c2a57512697e39ecd2ff6b8cb: https://martinfowler.com/articles/ship
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1697650558087,
+			"updated": 1724000214753,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2216,8 +2216,8 @@ febb3485d024e32c2a57512697e39ecd2ff6b8cb: https://martinfowler.com/articles/ship
 		},
 		{
 			"type": "arrow",
-			"version": 60,
-			"versionNonce": 113332306,
+			"version": 68,
+			"versionNonce": 2070009012,
 			"isDeleted": false,
 			"id": "DZ32skQZsm4PkUbbl6ooz",
 			"fillStyle": "hachure",
@@ -2238,7 +2238,7 @@ febb3485d024e32c2a57512697e39ecd2ff6b8cb: https://martinfowler.com/articles/ship
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1698147562825,
+			"updated": 1723999934684,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2334,41 +2334,6 @@ febb3485d024e32c2a57512697e39ecd2ff6b8cb: https://martinfowler.com/articles/ship
 			"containerId": null,
 			"originalText": "Why use conventional commits?",
 			"lineHeight": 1.2
-		},
-		{
-			"id": "OfGn6dCg",
-			"type": "text",
-			"x": 500.9809356548949,
-			"y": 547.4126936506636,
-			"width": 11.71875,
-			"height": 24,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"roundness": null,
-			"seed": 1726657806,
-			"version": 2,
-			"versionNonce": 1511090898,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698147566738,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.2
 		}
 	],
 	"appState": {
@@ -2386,10 +2351,10 @@ febb3485d024e32c2a57512697e39ecd2ff6b8cb: https://martinfowler.com/articles/ship
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1076.5190643451049,
-		"scrollY": 665.9206396826696,
+		"scrollX": 1065.4955143656707,
+		"scrollY": 4.322017716399654,
 		"zoom": {
-			"value": 0.39999999999999997
+			"value": 0.7500000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

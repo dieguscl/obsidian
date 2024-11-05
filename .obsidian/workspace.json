@@ -68,9 +68,21 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.4"
             }
+          },
+          {
+            "id": "2796657f48c21ed6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,7 +239,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "601f63dfdac94c79",
+  "active": "2796657f48c21ed6",
   "lastOpenFiles": [
     "Excalidraw/doga_construction.excalidraw",
     "Resources/Pasted image 20230418120359.png",

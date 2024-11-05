@@ -16,7 +16,9 @@
                 "file": "Extractor PIRDA.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Extractor PIRDA"
             }
           },
           {
@@ -26,7 +28,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.3"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.3"
             }
           },
           {
@@ -36,7 +40,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.5"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.5"
             }
           },
           {
@@ -46,11 +52,25 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/devOps-Transpara.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "devOps-Transpara"
+            }
+          },
+          {
+            "id": "601f63dfdac94c79",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -70,7 +90,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -85,7 +107,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -93,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -116,10 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/devOps-Transpara.md",
+                "file": "Extractor PIRDA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Extractor PIRDA"
             }
           },
           {
@@ -128,8 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/devOps-Transpara.md"
-              }
+                "file": "Extractor PIRDA.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Extractor PIRDA"
             }
           },
           {
@@ -137,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -148,7 +180,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -157,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/devOps-Transpara.md",
+                "file": "Extractor PIRDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +199,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Extractor PIRDA"
             }
           }
         ],
@@ -191,7 +227,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23b76047bcccfb88",
+  "active": "601f63dfdac94c79",
   "lastOpenFiles": [
     "Excalidraw/doga_construction.excalidraw",
     "Resources/Pasted image 20230418120359.png",

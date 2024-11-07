@@ -80,9 +80,31 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.5"
             }
+          },
+          {
+            "id": "e1d3212898a18286",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-07 17.18.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-07 17.18.33.excalidraw"
+            }
+          },
+          {
+            "id": "8f01438ab97f24e0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -239,12 +261,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2796657f48c21ed6",
+  "active": "8f01438ab97f24e0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-11-07 17.18.33.excalidraw.md",
+    "Excalidraw/devOps-Transpara.md",
+    "Excalidraw/Drawing 2024-11-07 17.18.33.excalidraw.png",
+    "Resources/Pasted Image 20241107173314_188.svg",
+    "Resources/Pasted Image 20241107173155_192.svg",
     "Excalidraw/doga_construction.excalidraw",
     "Resources/Pasted image 20230418120359.png",
     "Resources/Pasted image 20230126225411.png",
-    "Excalidraw/devOps-Transpara.md",
     "Excalidraw/Drawing 2023-05-12 11.46.35.excalidraw.md",
     "Excalidraw/Drawing 2023-08-01 09.16.55.excalidraw.md",
     "Excalidraw/Drawing 2023-06-22 10.01.15.excalidraw.md",
@@ -270,7 +296,6 @@
     "tStore Interface.md",
     "Daily notes/05 Feb, 2024.md",
     "Transpara/User inputs for tCore.md",
-    "Transpara/tSytem Deploy.md",
     "Resources/Borg Architecture.pdf",
     "Resources/seatMap.json",
     "Resources/New Rich Text Document.rtf",

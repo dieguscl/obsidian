@@ -70,7 +70,95 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.22",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "rectangle",
+            "version": 230,
+            "versionNonce": 1283380475,
+            "isDeleted": false,
+            "id": "EQOJIptNc6WhqDvOpoPea",
+            "fillStyle": "hachure",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "angle": 0,
+            "x": -117.5,
+            "y": -389,
+            "strokeColor": "#1864ab",
+            "backgroundColor": "transparent",
+            "width": 277,
+            "height": 126,
+            "seed": 778688827,
+            "groupIds": [],
+            "roundness": {
+              "type": 3
+            },
+            "boundElements": [
+              {
+                "type": "text",
+                "id": "VwP53f75"
+              },
+              {
+                "id": "0M_u0E11lumrA3TixgoD_",
+                "type": "arrow"
+              },
+              {
+                "id": "8EggK-Af7mz2TerxXQbJR",
+                "type": "arrow"
+              },
+              {
+                "id": "SdM7QBi1G8CgYeBzcxoOv",
+                "type": "arrow"
+              }
+            ],
+            "updated": 1731000620485,
+            "link": null,
+            "locked": false
+          },
+          {
+            "type": "text",
+            "version": 132,
+            "versionNonce": 1598114869,
+            "isDeleted": false,
+            "id": "VwP53f75",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": -37.59375,
+            "y": -338,
+            "strokeColor": "#1864ab",
+            "backgroundColor": "transparent",
+            "width": 117.1875,
+            "height": 24,
+            "seed": 569631963,
+            "groupIds": [],
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1731000620485,
+            "link": null,
+            "locked": false,
+            "fontSize": 20,
+            "fontFamily": 3,
+            "text": "Virtual IP",
+            "rawText": "Virtual IP",
+            "textAlign": "center",
+            "verticalAlign": "middle",
+            "containerId": "EQOJIptNc6WhqDvOpoPea",
+            "originalText": "Virtual IP",
+            "lineHeight": 1.2
+          }
+        ],
+        "id": "HcZROLkXyh9ZEVR_rfCBS",
+        "created": 1731000650158
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
